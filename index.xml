@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeuromorphicSWARM Project | for Multi-robot System</title>
+    <link>https://neumorswarm.github.io/</link>
+    <description>Recent content on NeuromorphicSWARM Project | for Multi-robot System</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://neumorswarm.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How the brain encodes the spatial position of others ?</title>
+      <link>https://neumorswarm.github.io/blog/2020/11/03/brain-encodes-others/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/blog/2020/11/03/brain-encodes-others/</guid>
+      <description>SOCIAL PLACE CELLS For social animals, such as bats and rats, tracking the position of a conspecific is important for social interactions such as observational learning. Much previous research has described how hippocampal place cells encode one&amp;rsquo;s own spatial location; however, the neuronal basis for encoding the position of another is unknown. Two new papers(Danjo et al., Omer et al.) identify so-called social place cells : neurons in the dorsal CA1 region (dCA1) of the hippocampus in bats and in rats that encode the position of an observed conspecific.</description>
+    </item>
+    
+    <item>
+      <title>ABOUT</title>
+      <link>https://neumorswarm.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/about/</guid>
+      <description>NeuromorphicSWARM: Brain-inspired Swarm Perception, Awareness and Navigation for Autonomous Collective Robots  For social animals, such as bats and rats, as well as knowing self location, being able to recognize the position of others in space is a crucial skill for purposes of hunting, escaping a predator, social interactions, observational learning, etc. Decades of research on the mammalian hippocampal formation has revealed a set of spatial neurons that represent self-position and orientation, including place cells, grid cells, head-direction cells, and border/boundary cells.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://neumorswarm.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/contact/</guid>
+      <description>We are here to help you Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Please feel free to contact us, our customer service center is working for you 24/7.</description>
+    </item>
+    
+    <item>
+      <title>NEWS</title>
+      <link>https://neumorswarm.github.io/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/news/</guid>
+      <description> 2020.02.14 My paper &amp;ldquo;Brain-inspired navigation technology integrating perception and action decision: a review and outlook&amp;rdquo; is highlighted by Acta Aeronautica et Astronautica Sinica on its WeChat and China&amp;rsquo;s Study.
+ </description>
+    </item>
+    
+    <item>
+      <title>RESEARCH</title>
+      <link>https://neumorswarm.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/research/</guid>
+      <description>WORKS PRODUCED AS A RESULT OF THIS PROJECT  1. PUBLICATIONS Journal Papers   Chuang Yang, Zhi Xiong, Jianye Liu, et al. Brain-inspired metric navigation of UAV based on model of multi-scale grid cells[J]. IEEE Transactions on Cognitive and Developmental Systems. (2020-08, Under review). Video
+  Chuang Yang, Jianye Liu, Zhi Xiong, et al. Brain-inspired vector navigation method for UAV based on model of multi-scale grid cells[J]. Journal of Chinese Inertial Technology, 2020, 28(02):179-185.</description>
+    </item>
+    
+    <item>
+      <title>VIDEOS</title>
+      <link>https://neumorswarm.github.io/videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neumorswarm.github.io/videos/</guid>
+      <description>SOME RESULTS ABOUT THE NeuromorphicSWARM PROJECT   Brain-inspired vector navigation based on CANN of multi-scale grid cells  More info</description>
+    </item>
+    
+  </channel>
+</rss>
